@@ -1,0 +1,16 @@
+<!-- save as src/assets/animals/owl.svg -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="256" height="256" aria-labelledby="owlTitle" role="img">
+  <title id="owlTitle">Owl mascot - wisdom</title>
+  <g fill="none" fill-rule="evenodd">
+    <circle cx="32" cy="32" r="30" fill="#F8F6F2"/>
+    <g transform="translate(12 14)">
+      <ellipse cx="8" cy="12" rx="6.8" ry="8" fill="#FFF"/>
+      <ellipse cx="32" cy="12" rx="6.8" ry="8" fill="#FFF"/>
+      <circle cx="8" cy="12" r="3" fill="#111827"/>
+      <circle cx="32" cy="12" r="3" fill="#111827"/>
+      <path d="M8 20c8 6 20 6 28 0" stroke="#111827" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+      <path d="M0 4c6-2 16-4 20 0 4-4 14-2 20 0C40 10 40 18 40 18s-4 8-20 8S0 18 0 18 0 10 0 4z" fill="#E7E1D9"/>
+      <path d="M6 0c2 2 6 4 10 4s8-2 10-4" stroke="#CBBEB0" stroke-width="1" stroke-linecap="round" />
+    </g>
+  </g>
+</svg>

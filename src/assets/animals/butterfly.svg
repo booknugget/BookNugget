@@ -1,0 +1,11 @@
+<!-- save as src/assets/animals/butterfly.svg -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="256" height="256" aria-labelledby="butterflyTitle" role="img">
+  <title id="butterflyTitle">Butterfly mascot - transformation</title>
+  <g fill="none" fill-rule="evenodd">
+    <path d="M32 34c6-6 14-6 20-2 4 4 4 10 0 14-6 6-14 6-20 2-6 4-14 4-20-2-4-4-4-10 0-14 6-4 14-4 20 0z" fill="#F59E0B"/>
+    <path d="M32 20c-6-6-14-6-20-2-4 4-4 10 0 14 6 6 14 6 20 2 6 4 14 4 20-2 4-4 4-10 0-14-6-4-14-4-20 2z" fill="#4F46E5" opacity="0.95"/>
+    <rect x="30" y="12" width="4" height="20" rx="2" fill="#111827"/>
+    <circle cx="22" cy="20" r="2" fill="#FFF"/>
+    <circle cx="42" cy="20" r="2" fill="#FFF"/>
+  </g>
+</svg>
