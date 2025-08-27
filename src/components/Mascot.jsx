@@ -1,8 +1,8 @@
-import Owl from "../assets/svg/owl.svg?react"
-import Butterfly from "../assets/svg/butterfly.svg?react"
-import Lion from "../assets/svg/lion.svg?react"
-import Dolphin from "../assets/svg/dolphin.svg?react"
-import Elephant from "../assets/svg/elephant.svg?react"
+import Owl from "../assets/animals/owl.svg?react"
+import Butterfly from "../assets/animals/butterfly.svg?react"
+import Lion from "../assets/animals/lion.svg?react"
+import Dolphin from "../assets/animals/dolphin.svg?react"
+import Elephant from "../assets/animals/elephant.svg?react"
 
 const mascots = {
   home: Butterfly,

@@ -2,7 +2,7 @@
   "name": "booknugget",
   "version": "1.0.0",
   "private": true,
-  "homepage": "https://booknugget.github.io/booknugget",
+  "homepage": "https://booknugget.github.io/BookNugget",
   "type": "module",
   "scripts": {
     "dev": "vite",
