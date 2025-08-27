@@ -6,8 +6,8 @@ export default function Footer(){
         <p className="text-sm">© {new Date().getFullYear()} BookNugget · A VibrantRevolve product</p>
         <div className="flex items-center gap-4 text-slate-500">
           <a href="#" aria-label="GitHub"><Github size={18} /></a>
-          <a href="#" aria-label="Twitter"><Twitter size={18} /></a>
-          <a href="#" aria-label="Instagram"><Instagram size={18} /></a>
+          <a href="https://twitter.com/vibrantrevolve" aria-label="Twitter"><Twitter size={18} /></a>
+          <a href="https://instagram.com/vibrantrevolve" aria-label="Instagram"><Instagram size={18} /></a>
         </div>
       </div>
     </footer>
