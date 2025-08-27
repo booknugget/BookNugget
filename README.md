@@ -1,4 +1,4 @@
-# BookNugget (Enhanced)
+# BookNugget
 An enhanced, development-ready React + Vite + Tailwind project scaffold for BookNugget. Includes UI/UX enhancements: dark/light theme, animated butterflies, page transitions, polished cards, responsive navbar & mobile drawer, and demo pages.
 
 ## Quick start

@@ -5,3 +5,5 @@ export default defineConfig({
   base: '/booknugget/',  
   plugins: [react()],
 })
+
+
