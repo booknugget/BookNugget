@@ -51,7 +51,7 @@ export default function Authors(){
         <div className="relative z-10">
           <h1 className="text-3xl font-extrabold">Author Spotlight</h1>
           <p className="mt-2 text-slate-600 dark:text-slate-300">
-            A rotating global selection (your AI fetch can expand this).
+            A rotating global selection...
           </p>
           <div className="mt-6 grid sm:grid-cols-2 md:grid-cols-3 gap-5">
             {authors.map(a=> (
